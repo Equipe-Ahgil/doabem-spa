@@ -6,6 +6,7 @@
       </div>
 
       <div class="carrossel"> <!-- Div para Carrossel -->
+      <CasosRecentes />
       </div>
 
       <div class="conteudo"> <!-- Div para conteudo -->
@@ -24,12 +25,13 @@
 
 <script>
 import Banner from 'components/Banner.vue'
+import CasosRecentes from 'components/CasosRecentes.vue'
 import ComoFunciona from 'components/ComoFunciona.vue'
 import Transparecia from 'components/Transparecia.vue'
 
 export default {
   name: 'PageIndex',
-  components: { Banner, ComoFunciona, Transparecia },
+  components: { Banner, CasosRecentes, ComoFunciona, Transparecia },
   data () {
     return {
       slide: 'style',
