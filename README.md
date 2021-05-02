@@ -9,9 +9,6 @@
 <p align="left"> 💻🧑‍ DoaBem é uma plataforma para conectar doadores de bens, beneficiários e empresas, onde é possível pesquisar por localização e por casos, possibilitando que o beneficiário valide sua história por vídeo e que todos os usuários compartilhem-na.
 </p>
 
-<p align="justify">Os usuários terão acesso também ao aplicativo móvel, onde poderão ter mais comodidade para ter acesso ao conteúdo a qualquer momento.</p>
-<p align="justify">Projeto acadêmico desenvolvido no curso de Análise e Desenvolvimento de Sistemas e Sistemas para Internet na <a href="https://ficr.catolica.edu.br/portal/">Faculdade Imaculada Conceição do Recife - FICR</a>.</p>
-
 ## 🛠 Tecnologias
 
 Foram utilizadas as seguintes tecnologias no projeto:
